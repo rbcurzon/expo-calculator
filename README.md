@@ -2,7 +2,7 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Image
+## Screenshot
 
 <img src="assets/images/calculator-screenshot.png" alt="Alt text" width="300">
 
