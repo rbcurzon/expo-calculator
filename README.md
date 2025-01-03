@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Image
 
-![Alt text](assets/images/calculator-screenshot.png)
+<img src="assets/images/calculator-screenshot.png" alt="Alt text" width="300">
 
 
 ## Get started
