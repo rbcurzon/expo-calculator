@@ -2,6 +2,11 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Image
+
+![Alt text](assets/images/calculator-screenshot.png)
+
+
 ## Get started
 
 1. Install dependencies
